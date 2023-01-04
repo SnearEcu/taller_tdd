@@ -1,5 +1,8 @@
 # JAVASCRIPT CODE KATAS
 
+Author: Bryan Andres Ortega Llanos
+Universidad Tecnica del Norte
+
 Small coding exercises to learn Test Driven Development technique.
 
 
